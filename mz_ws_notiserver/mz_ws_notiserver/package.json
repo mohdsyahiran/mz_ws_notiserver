@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "whatsapp-web.js": "github:MobCode100/whatsapp-web.js#webpack-exodus"
+  }
+}
